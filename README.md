@@ -94,7 +94,7 @@ The application consists of 4 main components:
 5. WHOIS `(https://whois.whoisxmlapi.com/)`
 
 
-**Steps to install Dependencies:**
+**Steps to install:**
 
 
 1. Clone the repository:
